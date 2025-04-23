@@ -15,6 +15,15 @@ Extract [obs-studio-31.0.2-macos-apple.dmg](https://drive.google.com/file/d/10Zt
 
     Remember where the OBS is located, usually it is located in "Finder > Applications > OBS"
 
+
+# Remux Recordings
+
+<ul>
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+</ul>
+
 # Aitum Multistream | Version: 1.0.6
 **Windows:**
 Extract [aitum-multistream-windows-installer.exe](https://drive.google.com/file/d/1vV4sBu5hvMpbfOqBS8_Qc9eWYCM98SiT/view?usp=share_link) and follow installation process and then place it in the 'obs-studio' folder.
@@ -37,9 +46,3 @@ Extract or Move Files [advanced-scene-switcher-1.29.3-macos-universal.pkg](https
 for i in range(1, 124):
     print(f"{i}. Bullet point {i}")
 
-
-<ul>
-    <li>Coffee</li>
-    <li>Tea</li>
-    <li>Milk</li>
-</ul>
