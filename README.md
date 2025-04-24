@@ -38,7 +38,7 @@ Go to 'Docks' in the OBS Software and look for 'Aitum Multistream' click it and 
 
 <ul>
     <li>When you see the pop-up or something you want to hit the 'settings wheel' and then it will bring you to a another pop-up</li>
-    <li>CLick on 'Main Canvas' and then you can hit 'Add Output'</li>
+    <li>Click on 'Main Canvas' and then you can hit 'Add Output'</li>
     <li>And you will see a menu of services that you can stream too</li>
     <li>Then add streaming servece like Twitch and you need to find the Streaming Key on Twitch's Website for Creators</li>
     <li>There you go now you have a way to Muti-Stream to other services at once!</li>
