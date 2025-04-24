@@ -19,9 +19,12 @@ Extract [obs-studio-31.0.2-macos-apple.dmg](https://drive.google.com/file/d/10Zt
 # Remux Recordings
 
 <ul>
-    <li>Coffee</li>
-    <li>Tea</li>
-    <li>Milk</li>
+    <li>Fristly after you have recorded your video or stream, and you want to keep your videos on YouTube for safe keeping for later you can Remux Recordings</li>
+    <li>Go click 'File' and click 'Remux Recordings' and then it will show you a popup for Remuxing Recordings</li>
+    <li>You can now click the '...' three dots and it will bring up your File Expoler or Files and click on the roecrdings that you want to Remux</li>
+    <li>Then you can click 'Remux' and it will take sometime however long your file is and then it will be Remuxed</li>
+    <li>You then can hit 'Clear all' and it will clear the History of the Remuxing</li>
+    <li>You can now close the winodw by clicking 'close'</li>
 </ul>
 
 # Aitum Multistream | Version: 1.0.6
