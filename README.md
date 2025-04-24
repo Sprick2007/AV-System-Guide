@@ -36,6 +36,14 @@ Aitum Multistream is where you can stream to many platforms like; Facebook Live,
 Extract [aitum-multistream-windows-installer.exe](https://drive.google.com/file/d/1vV4sBu5hvMpbfOqBS8_Qc9eWYCM98SiT/view?usp=share_link) and follow installation process and then place it in the 'obs-studio' folder.
 Go to 'Docks' in the OBS Software and look for 'Aitum Multistream' click it and you will see a pop up.
 
+<ul>
+    <li>When you see the pop-up or something you want to hit the 'settings wheel' and then it will bring you to a another pop-up</li>
+    <li>CLick on 'Main Canvas' and then you can hit 'Add Output'</li>
+    <li>And you will see a menu of services that you can stream too</li>
+    <li>Then add streaming servece like Twitch and you need to find the Streaming Key on Twitch's Website for Creators</li>
+    <li>There you go now you have a way to Muti-Stream to other services at once!</li>
+</ul>
+
 **MacOS:**
 Extract [aitum-multistream-macos-universal.pkg](https://drive.google.com/file/d/1FesD0hur_xBCQ4FYjbPRLWsVpnCvPrhp/view?usp=share_link) and place it anywhere. (I think)
 Go to 'Docks' in the top menu and then hit 'Aitrum Mutistream', which is going to bring you a pop-up screen
