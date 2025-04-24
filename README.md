@@ -17,7 +17,7 @@ Extract [obs-studio-31.0.2-macos-apple.dmg](https://drive.google.com/file/d/10Zt
 
 
 # Remux Recordings
-
+**All Operating Systems**
 <ul>
     <li>Fristly after you have recorded your video or stream, and you want to keep your videos on YouTube for safe keeping for later you can Remux Recordings</li>
     <li>Go click 'File' and click 'Remux Recordings' and then it will show you a popup for Remuxing Recordings</li>
@@ -40,12 +40,11 @@ Go to 'Docks' in the top menu and then hit 'Aitrum Mutistream', which is going t
 # Advanced Scene Switcher | Version: 1.29.3
 **Windows:**
 Extract or Move Files [advanced-scene-switcher-1.29.3-windows-x64.zip](https://drive.google.com/file/d/16Vr6vnHxWTnDdd2M374t-bdyMp4oZ4gd/view?usp=sharing) into the 'obs-studio' folder.
-Go on OBS and click on the 'Tools' in the Menu bar and look for 'Advanced Scene Switcher' click on it and it should show you a pop up screen.
+Go on OBS and click on the 'Tools' in the Menu bar and look for 'Advanced Scene Switcher' click on it and it should show you a pop-up screen.
+
+CLick the "+" icon on the lower left of the pop-up and then you can name it anything
+Follow this Gif for more visual
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://obsproject.com/forum/attachments/overview-gif.108075/))
 
 **MacOS:**
 Extract or Move Files [advanced-scene-switcher-1.29.3-macos-universal.pkg](https://drive.google.com/file/d/1VbjCBmJZLBTaX_uvNRlrAsm9uFNOPU27/view?usp=sharing) and place it anywhere. (I think)
-
-# Generate 123 bullet points
-for i in range(1, 124):
-    print(f"{i}. Bullet point {i}")
-
