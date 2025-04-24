@@ -24,7 +24,7 @@ Extract [obs-studio-31.0.2-macos-apple.dmg](https://drive.google.com/file/d/10Zt
     <li>You can now click the '...' three dots and it will bring up your File Expoler or Files and click on the roecrdings that you want to Remux</li>
     <li>Then you can click 'Remux' and it will take sometime however long your file is and then it will be Remuxed</li>
     <li>You then can hit 'Clear all' and it will clear the History of the Remuxing</li>
-    <li>You can now close the winodw by clicking 'close'</li>
+    <li>You can now close the window by clicking 'close'</li>
 </ul>
 
 # Aitum Multistream | Version: 1.0.6
