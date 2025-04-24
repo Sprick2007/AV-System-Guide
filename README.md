@@ -30,8 +30,7 @@ Extract [obs-studio-31.0.2-macos-apple.dmg](https://drive.google.com/file/d/10Zt
 </ul>
 
 # Aitum Multistream | Version: 1.0.6
-
-    Aitum Multistream is where you can stream to many platforms like; Facebook Live, YouTube, X (Tiwtter), Kick, Twitch, and more if you have the Streaming Key!
+Aitum Multistream is where you can stream to many platforms like; Facebook Live, YouTube, X (Tiwtter), Kick, Twitch, and more if you have the Streaming Key!
 
 **Windows:**
 Extract [aitum-multistream-windows-installer.exe](https://drive.google.com/file/d/1vV4sBu5hvMpbfOqBS8_Qc9eWYCM98SiT/view?usp=share_link) and follow installation process and then place it in the 'obs-studio' folder.
@@ -42,8 +41,7 @@ Extract [aitum-multistream-macos-universal.pkg](https://drive.google.com/file/d/
 Go to 'Docks' in the top menu and then hit 'Aitrum Mutistream', which is going to bring you a pop-up screen
 
 # Advanced Scene Switcher | Version: 1.29.3
-
-    Advanced Scene switcher is where you can create macros for 'Auto Start' stream or even recordings, you can create a lot of fun automations in this 'Add-on'
+Advanced Scene switcher is where you can create macros for 'Auto Start' stream or even recordings, you can create a lot of fun automations in this 'Add-on'.
 
 **Windows:**
 Extract or Move Files [advanced-scene-switcher-1.29.3-windows-x64.zip](https://drive.google.com/file/d/16Vr6vnHxWTnDdd2M374t-bdyMp4oZ4gd/view?usp=sharing) into the 'obs-studio' folder.
