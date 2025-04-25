@@ -19,7 +19,7 @@ Extract [obs-studio-31.0.2-macos-apple.dmg](https://drive.google.com/file/d/10Zt
 
 
 # Remux Recordings
-**All Operating Systems**
+**All Operating Systems:**
 <ul>
     <li>Fristly after you have recorded your video or stream, and you want to keep your videos on YouTube for safe keeping for later you can Remux Recordings</li>
     <li>Go click 'File' and click 'Remux Recordings' and then it will show you a popup for Remuxing Recordings</li>
@@ -54,17 +54,10 @@ Advanced Scene switcher is where you can create macros for 'Auto Start' stream o
 **Windows:**
 Extract or Move Files [advanced-scene-switcher-1.29.3-windows-x64.zip](https://drive.google.com/file/d/16Vr6vnHxWTnDdd2M374t-bdyMp4oZ4gd/view?usp=sharing) into the 'obs-studio' folder.
 Go on OBS and click on the 'Tools' in the Menu bar and look for 'Advanced Scene Switcher' click on it and it should show you a pop-up screen.
-Click the '+' icon on the lower left of the pop-up and then you can name it anything
-Follow this [Gif](https://drive.google.com/file/d/1g2uDf8eLBMSxD0qOdDn-hdTxms4-mVw_/view?usp=sharing) for more visual
+Click the '+' icon on the lower left of the pop-up and then you can name it anything;
+Follow this [Gif](https://drive.google.com/file/d/1g2uDf8eLBMSxD0qOdDn-hdTxms4-mVw_/view?usp=sharing) for more visual.
 
 **MacOS:**
 Extract or Move Files [advanced-scene-switcher-1.29.3-macos-universal.pkg](https://drive.google.com/file/d/1VbjCBmJZLBTaX_uvNRlrAsm9uFNOPU27/view?usp=sharing) and place it anywhere. (I think)
-Click the '+' icon on the lower left of the pop-up and then you can name it anything
-Follow this [Gif](https://drive.google.com/file/d/1g2uDf8eLBMSxD0qOdDn-hdTxms4-mVw_/view?usp=sharing) for more visual
-
-
-<p>A computer science portal for geeks
-    <a target="_blank" href="https://www.geeksforgeeks.org/">
-        GeeksforGeeks
-    </a>
-</p>
+Click the '+' icon on the lower left of the pop-up and then you can name it anything;
+Follow this [Gif](https://drive.google.com/file/d/1g2uDf8eLBMSxD0qOdDn-hdTxms4-mVw_/view?usp=sharing) for more visual.
