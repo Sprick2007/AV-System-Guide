@@ -10,12 +10,12 @@ Download OBS Folder for [Windows](https://drive.google.com/drive/folders/1UB566V
 **Windows:**
 Extract [OBS-Studio-31.0.2-Windows.zip](https://drive.google.com/file/d/1ublmtXxd_GRIUD2J_-V8m7hchlvWw5Qy/view?usp=drive_link) and follow the installation steps.
 
-    Remember where the OBS is located, usually it is located in "This PC > Windows-SSD (C:) > Program Files > obs-studio"
+<ul>Remember where the OBS is located, usually it is located in "This PC > Windows-SSD (C:) > Program Files > obs-studio"</ul>
 
 **MacOS:**
 Extract [obs-studio-31.0.2-macos-apple.dmg](https://drive.google.com/file/d/10ZtgribqPjoyF6SJHNzb78-5uCmWDSP3/view?usp=drive_link) and follow the installation steps.
 
-    Remember where the OBS is located, usually it is located in "Finder > Applications > OBS"
+<ul>Remember where the OBS is located, usually it is located in "Finder > Applications > OBS"</ul>
 
 
 # Remux Recordings
@@ -61,3 +61,10 @@ Follow this [Gif](https://drive.google.com/file/d/1g2uDf8eLBMSxD0qOdDn-hdTxms4-m
 Extract or Move Files [advanced-scene-switcher-1.29.3-macos-universal.pkg](https://drive.google.com/file/d/1VbjCBmJZLBTaX_uvNRlrAsm9uFNOPU27/view?usp=sharing) and place it anywhere. (I think)
 Click the '+' icon on the lower left of the pop-up and then you can name it anything
 Follow this [Gif](https://drive.google.com/file/d/1g2uDf8eLBMSxD0qOdDn-hdTxms4-mVw_/view?usp=sharing) for more visual
+
+
+<p>A computer science portal for geeks
+    <a target="_blank" href="https://www.geeksforgeeks.org/">
+        GeeksforGeeks
+    </a>
+</p>
