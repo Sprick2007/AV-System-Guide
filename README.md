@@ -65,3 +65,7 @@ Follow this [Gif](https://drive.google.com/file/d/1g2uDf8eLBMSxD0qOdDn-hdTxms4-m
 # Popup Widget For AV Systems
 A Mini Always-on-top Windows Panel for Quick Access items. This is great for Stream when you want to hit "Start Streaming" on the window that you don't want to show the OBS Menu.
 
+**Windows**
+Download the AutoHotKey (AHK) from the [website](https://www.autohotkey.com/) and Click on "Downlaod" From here, I would download both of the Files.
+Open the file and follow the basic steps, when your done you can open VS-Code or NotePad (NotePad would be great for this)
+When you're in the NotePad App, you can save the file and Name it whatever you like, and then after the Naming, you have to add ".ahk" since that is going to trigger the application to work.
