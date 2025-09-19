@@ -61,3 +61,7 @@ Follow this [Gif](https://drive.google.com/file/d/1g2uDf8eLBMSxD0qOdDn-hdTxms4-m
 Extract or Move Files [advanced-scene-switcher-1.29.3-macos-universal.pkg](https://drive.google.com/file/d/1VbjCBmJZLBTaX_uvNRlrAsm9uFNOPU27/view?usp=sharing) and place it anywhere. (I think)
 Click the '+' icon on the lower left of the pop-up and then you can name it anything;
 Follow this [Gif](https://drive.google.com/file/d/1g2uDf8eLBMSxD0qOdDn-hdTxms4-mVw_/view?usp=sharing) for more visual.
+
+# Popup Widget For AV Systems
+A Mini Always-on-top Windows Panel for Quick Access items. This is great for Stream when you want to hit "Start Streaming" on the window that you don't want to show the OBS Menu.
+
